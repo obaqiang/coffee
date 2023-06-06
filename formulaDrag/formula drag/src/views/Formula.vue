@@ -334,6 +334,7 @@ export default {
   },
   mounted() {},
   methods: {
+
     onEndGarbage() {},
 
     showDeleteTag(itemIndex, itemId) {
